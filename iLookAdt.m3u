@@ -411,6 +411,8 @@ http://8n6ygj3g.ottclub.xyz/iptv/CT48QBLVYBT79U/12176/index.m3u8
 http://8n6ygj3g.ottclub.xyz/iptv/CT48QBLVYBT79U/6251/index.m3u8
 #EXTINF:0 timeshift="0" ,RUSSIAN TV
 http://8n6ygj3g.ottclub.xyz/iptv/CT48QBLVYBT79U/12177/index.m3u8
+#EXTINF:0 ,Satisfaction Channel (SCT)
+http://185.183.34.118/iptv/F59KKDMP2GN7ZB/876/index.m3u8
 #EXTINF:0 timeshift="0" ,SCT
 http://8n6ygj3g.ottclub.xyz/iptv/CT48QBLVYBT79U/876/index.m3u8
 #EXTINF:0 timeshift="0" ,SELECT XXX
