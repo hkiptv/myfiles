@@ -63,6 +63,12 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuD_S0_20ac07FrdsaaFrG3YxWChqneRSUw&usqp=CAU" ,Design Network - Samsung
 https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 ,Discovery Channel [UK]
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86098
+#EXTINF:0 ,Discovery Investigations [UK]
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000839
+#EXTINF:0 ,Discovery Turbo [UK]
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/86099
 #EXTINF:-1 group-title="兒童" ,Disney Channel [TW]
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 group-title="兒童" ,Disney Junior [TW]
@@ -157,6 +163,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 #EXTINF:-1 group-title="生活" ,NASA Channel
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
+#EXTINF:0 ,Nat Geo People [US]
+http://icego.club:80/vanderlei12/vanderlei12/85811
 #EXTINF:-1 group-title="生活" ,Nat Geo People HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
 #EXTINF:0 ,Nat Geo Wild CA
