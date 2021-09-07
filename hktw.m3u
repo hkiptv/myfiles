@@ -21,12 +21,8 @@ http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="國際 / 新聞" ,BBC World News
 http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
-#EXTINF:-1 group-title="國際 / 新聞" ,BBC World News [VN]
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="韓國" ,BBS_TV(불교)
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="國際 / 新聞" ,Bloomberg
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/New_Bloomberg_Logo.svgown/300?cb=20170703173131" ,Bloomberg - Samsung
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="國際 / 新聞" ,Bloomberg TV Europe
@@ -39,18 +35,14 @@ http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="香港" ,C+頻道
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="澳門" ,Canal Macau
-http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 group-title="兒童" ,Cbeebies [TW]
 http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+#EXTINF:0 group-title="香港" tvg-id="33" tvg-logo="https://hkdtmb.com/png_logo/33.png" ,CCTV-1 (港澳版)
+https://cdn.hkdtmb.com/hls/33/index.m3u8
 #EXTINF:-1 group-title="中國" ,CCTV5HD
 http://livetv.dnsfor.me:80/channel.17.m3u8
 #EXTINF:-1 group-title="電影" ,Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 group-title="音樂" ,Channel V HD [VN]
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="國際 / 新聞" ,CNN
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
 #EXTINF:0 group-title="國際 / 新聞" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" ,CNN - Samsung
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 group-title="國際 / 新聞" ,CNN[785*576]
@@ -67,8 +59,6 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuD_S0_20ac07FrdsaaFrG3YxWChqneRSUw&usqp=CAU" ,Design Network - Samsung
 https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="生活" ,Discovery Channel [VN]
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="兒童" ,Disney Channel [TW]
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 group-title="兒童" ,Disney Junior [TW]
@@ -101,8 +91,6 @@ http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 #EXTINF:-1 group-title="電影" ,FOX犯罪電影
 http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-#EXTINF:0 group-title="日本" ,Fuji TV [JP]
-https://list.iptvcat.com/my_list/s/bb6404493f9d7eb2acf163fc00b30fa1.m3u8
 #EXTINF:-1 group-title="娛樂" ,FX HD測試
 http://125.227.210.37:13498/VideoInput/play.ts
 #EXTINF:-1 group-title="國際 / 新聞" ,Global News
@@ -133,12 +121,8 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7079
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2pvexX2XDYZRZqkWjcZcJOiF2Duo-WLciBg&usqp=CAU" ,Hollywire - Samsung
 https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 group-title="日本" ,Japan Channel DX [JP]
-https://list.iptvcat.com/my_list/s/03988eff42e33e5d75b42b9b9e3d15c9.m3u8
 #EXTINF:-1 group-title="韓國" ,KBS1
 http://bbb.usa7.345888.xyz/ub.php?id=174
-#EXTINF:-1 group-title="韓國" ,KBSWorld
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u8
 #EXTINF:-1 group-title="兒童" ,Kids TV
 http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 #EXTINF:0 ,Law and Crime Network - Samsung
@@ -169,8 +153,12 @@ http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
 #EXTINF:-1 group-title="生活" ,Nat Geo People HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
+#EXTINF:0 ,Nat Geo Wild CA
+http://icego.club:80/vanderlei12/vanderlei12/85791
 #EXTINF:-1 group-title="生活" ,Nat Geo Wild HD [MY]
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7081
+#EXTINF:0 ,Nat Geo Wild US
+http://scrapehost.com:8080/Cedrick/Cedrick/10863
 #EXTINF:-1 group-title="生活" ,NatGeo People
 http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
 #EXTINF:0 ,NatGeo Wild HD [US]
@@ -179,8 +167,14 @@ http://scrapehost.com:8080/Cedrick/Cedrick/10863
 http://scrapehost.com:8080/Cedrick/Cedrick/10864
 #EXTINF:-1 group-title="生活" ,National Geographic HD [MY]
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7075
+#EXTINF:0 ,National Geographic UK
+http://ns561850.ip-54-39-158.net:8080/Yasmin/Yasmin123/15448
 #EXTINF:-1 group-title="生活" ,National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:0 ,National Geographics CA
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/315790
+#EXTINF:0 ,National Geographics US
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000101
 #EXTINF:-1 group-title="馬來西亞" ,Naura [MY]
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 group-title="生活" ,Net Geo Wild [MY]
@@ -196,31 +190,17 @@ http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 group-title="兒童" ,Nick JR
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1 group-title="香港" ,Now Sports Prime 630
-http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1 group-title="香港 / 新聞" ,Now 新聞台
-http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 group-title="香港 / 新聞" ,Now 新聞台
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 group-title="香港" ,Now 新聞台
 https://www.navchina.cf/IPTV/now.php?id=332
-#EXTINF:-1 group-title="香港 / 新聞" ,Now 直播331台
-http://livetv.dnsfor.me/channel.3.m3u8
-#EXTINF:-1 group-title="香港 / 新聞" ,Now 直播331台
+#EXTINF:-1 group-title="香港" ,Now 直播331台
 https://api.leonardpark.dev/live/now/331
-#EXTINF:-1 group-title="香港 / 新聞" ,Now 財經333台
+#EXTINF:-1 group-title="香港" ,Now 財經333台
 https://www.navchina.cf/IPTV/now.php?id=333
-#EXTINF:-1 group-title="生活" ,Outdoor Channel [VN]
-http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/J4zE5z9.jpg" ,PBS America - Samsung
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/U8GADbT.jpg" ,Planet Knowledge - Samsung
 https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="香港" ,RHK31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-#EXTINF:-1 group-title="香港" ,RTHK31
-http://livetv.dnsfor.me/channel.1.m3u8
-#EXTINF:-1 group-title="香港" ,RTHK31
-http://livetv.dnsfor.me:80/channel.1.m3u8
-#EXTINF:-1 group-title="香港" ,RTHK32
-http://livetv.dnsfor.me:80/channel.2.m3u8
 #EXTINF:0 group-title="電影" ,SDM 1 - Action Movies
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="電影" ,SDM 2 - Action Movies
@@ -237,24 +217,26 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:0 group-title="兒童" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN5BgvTvLLqIht8NRNTroIRJtjkux9IoahNA&usqp=CAU" ,Supertoons - Samsung
 https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 group-title="日本" ,TBS [JP]
-https://list.iptvcat.com/my_list/s/6d239250c980bc1719add5b7a9865b0d.m3u8
-#EXTINF:-1 group-title="澳門" ,TDM HD Macau (Opt-1)
-http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,TDM Macau (Opt-1)
-http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,TDM Sports Macau (Opt-1)
-http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="電影" ,Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:0 ,TLC
 http://icego.club:80/vanderlei12/vanderlei12/85771
+#EXTINF:0 ,TLC CA
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/315807
+#EXTINF:0 ,TLC UK
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/316760
+#EXTINF:0 ,TLC US
+http://pelicanhosting.xyz:80/gfqonnad/7685216494/393
 #EXTINF:-1 group-title="生活" ,TLC旅遊生活
 http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/6V48LwT.jpg" ,Travel XP - Samsung
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="香港 / 新聞" ,TVB 無線新聞台
-http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF:-1 group-title="香港" ,TVB 星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 group-title="香港" ,TVB 無線新聞
+http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
+#EXTINF:-1 group-title="香港" ,TVB 翡翠華麗台
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 group-title="劇集" ,TVB8 (國語)
 https://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/689546/live_194707653_5399055.m3u8
 #EXTINF:-1 group-title="劇集" ,TVBL
@@ -271,18 +253,12 @@ http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 group-title="音樂" ,V2 音樂頻道 [IT]
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="香港" ,ViuTV
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-#EXTINF:-1 group-title="香港" ,ViuTV
-http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 group-title="香港" ,ViuTV Six
-http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-#EXTINF:-1 group-title="香港" ,ViuTV Six
-http://61.238.6.49:8000/bysid/96
+#EXTINF:0 group-title="香港" tvg-id="99" tvg-logo="https://hkdtmb.com/png_logo/99.png" ,ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:0 group-title="香港" tvg-id="96" ,ViuTV Six
+https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 group-title="娛樂" ,Warner TV HD [MY]
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7072
-#EXTINF:0 group-title="日本" ,Weather TV [JP]
-https://list.iptvcat.com/my_list/s/57b202599e53ad51e7b6a2ab48347304.m3u8
 #EXTINF:-1 group-title="台灣 / 新聞" ,三立Live新聞
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 group-title="台灣" ,三立台灣台
@@ -315,10 +291,16 @@ http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 group-title="生活" ,亞旅衛視
 http://livetv.dnsfor.me:80/channel.24.m3u8
+#EXTINF:-1 group-title="香港" ,亞旅衛視
+https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
 #EXTINF:-1 group-title="國際 / 新聞" ,亞洲新聞台(CNA)
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="國際 / 新聞" ,亞洲新聞台(CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="香港" ,亞洲美食
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 group-title="香港" ,亞美衛視
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 group-title="生活" ,亞美衛視
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 group-title="台灣" ,優視頻道
@@ -355,8 +337,6 @@ http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 #EXTINF:-1 group-title="電影" ,天映頻道HD
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 group-title="電影" ,天映頻道HD
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 group-title="台灣" ,好消息電視台1
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1 group-title="台灣" ,好消息電視台2
@@ -379,12 +359,20 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf
 http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="日本" ,日本NHK華語
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 group-title="香港 / 新聞" ,有線新聞台
+#EXTINF:-1 group-title="香港" ,有線新聞台
 https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 group-title="香港 / 新聞" ,有線直播新聞台
+#EXTINF:-1 group-title="香港" ,有線新聞台 [2]
+https://www.navchina.cf/IPTV/icable.php?id=37
+#EXTINF:-1 group-title="香港" ,有線直播新聞台
 https://api.leonardpark.dev/live/icable/110
-#EXTINF:-1 group-title="香港 / 新聞" ,有線財經資訊台
+#EXTINF:-1 group-title="香港" ,有線直播新聞台 [2]
+https://www.navchina.cf/IPTV/icable.php?id=39
+#EXTINF:-1 group-title="香港" ,有線綜合娛樂台
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
+#EXTINF:-1 group-title="香港" ,有線財經資訊台
 https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 group-title="香港" ,有線財經資訊台 [2]
+https://www.navchina.cf/IPTV/icable.php?id=38
 #EXTINF:-1 group-title="台灣 / 新聞" ,東森新聞台
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 group-title="台灣" ,東森洋片
@@ -429,124 +417,46 @@ http://125.210.152.21:9120/live/QSDW.m3u8
 http://125.210.152.21:9120/live/QSSH.m3u8
 #EXTINF:-1 group-title="中國 / 生活" ,求索紀錄 [CN]
 http://125.210.152.21:9120/live/QSKX.m3u8
-#EXTINF:-1 group-title="香港" ,港台電視31
-http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-#EXTINF:-1 group-title="香港" ,港台電視31
+#EXTINF:-1 group-title="香港" ,港劇台
+http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://hkdtmb.com/png_logo/31.png" ,港台電視31
 http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8
-#EXTINF:-1 group-title="香港" ,港台電視31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 group-title="香港" ,港台電視32
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-#EXTINF:-1 group-title="香港" ,港台電視32
-http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
-#EXTINF:-1 group-title="香港" ,港台電視32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
-#EXTINF:-1 group-title="香港" ,港台電視32
+#EXTINF:-1 group-title="香港" tvg-logo="https://hkdtmb.com/png_logo/32.png" ,港台電視32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:-1 group-title="香港" ,港台電視33
-http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-#EXTINF:-1 group-title="香港 / 新聞" ,港台電視新聞
+#EXTINF:-1 group-title="香港" ,港臺電視新聞
 http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
-#EXTINF:-1 group-title="香港" ,港視32台
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 group-title="香港" ,港視32台2
-http://livetv.dnsfor.me/channel.2.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視MACAU
-http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視微影
-http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視澳門
-http://61.244.22.4/ch1/ch1.live/index.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視澳門
+#EXTINF:-1 group-title="澳門" ,澳視 1 澳門
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視澳門
-http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視澳門
-http://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視澳門[1280*720]
-http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視澳門台
-http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視綜藝
-http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視葡文
-http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視葡文
+#EXTINF:-1 group-title="澳門" ,澳視 2 葡文
 http://61.244.22.4/ch2/ch2.live/index.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視葡文
-http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視葡文
-http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視衛星
+#EXTINF:-1 group-title="澳門" ,澳視 3 衛星
 http://61.244.22.4/ch3/ch3.live/index.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視衛視
-http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視資訊
+#EXTINF:-1 group-title="澳門" ,澳視 4 體育
+http://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門" ,澳視 5 資訊
 http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-#EXTINF:-1 group-title="澳門" ,澳視資訊
-http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳門2台
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳門3台
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳門MACAU
-http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門" ,澳視 6 綜藝
+http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 group-title="澳門" ,澳門互動新聞台
 http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 group-title="澳門" ,澳門有線 CH1
 http://202.175.127.77/live/show/ch1/index.m3u8
 #EXTINF:-1 group-title="澳門" ,澳門有線 CH3
 http://202.175.127.77/live/show/ch3/index.m3u8
-#EXTINF:-1 group-title="澳門" ,澳門立法會直播
-http://live4.tdm.com.mo/tv/ch21.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳門綜藝
-http://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳門綜藝
-http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳門葡語
-http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 group-title="澳門" ,澳門衛星[1280*720]
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳門衛視台
-http://61.244.22.4/ch3/ch3.live/chunklist_w415594313.m3u8
-#EXTINF:-1 group-title="澳門" ,澳門資訊
-http://live4.tdm.com.mo/ch5/_difinst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳門資訊[1280*720]
-http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 group-title="澳門" ,澳門體育
-http://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 group-title="香港" ,無綫新聞 newsevent1
-http://www.chahaoquan.com/wz/epg/tvb.php?id=3
-#EXTINF:-1 group-title="香港" ,無綫新聞 newsevent2
-http://www.chahaoquan.com/wz/epg/tvb.php?id=4
-#EXTINF:-1 group-title="香港 / 新聞" ,無綫新聞台
-http://livetv.dnsfor.me:80/channel.10.m3u8
-#EXTINF:-1 group-title="香港 / 新聞" ,無綫財經資訊台
-http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1 group-title="香港 / 新聞" ,無綫財經資訊台
-http://www.chahaoquan.com/wz/epg/tvb.php?id=2
-#EXTINF:-1 group-title="香港 / 新聞" ,無線新聞
-http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
-#EXTINF:-1 group-title="香港 / 新聞" ,無線新聞
-http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-#EXTINF:-1 group-title="香港" ,無線財經
-http://www.chahaoquan.com/wz/epg/tvb.php?id=2
-#EXTINF:-1 group-title="香港" ,無線財經資訊
-http://livetv.dnsfor.me/channel.11.m3u8
+#EXTINF:0 group-title="香港" tvg-id="83" tvg-logo="https://hkdtmb.com/png_logo/83.png" ,無綫新聞台
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:0 group-title="香港" tvg-id="85" tvg-logo="https://hkdtmb.com/png_logo/85.png" ,無綫財經資訊台
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:0 group-title="香港" tvg-id="82" tvg-logo="https://hkdtmb.com/png_logo/82.png" ,無線J2台
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:0 group-title="香港" tvg-id="84" tvg-logo="https://hkdtmb.com/png_logo/84.png" ,無線明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:0 group-title="香港" tvg-id="81" tvg-logo="https://hkdtmb.com/png_logo/81.png" ,無線翡翠台 [標清]
+https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 group-title="電影" ,玄幻影院
 https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 #EXTINF:-1 group-title="中國 / 新聞" ,第一財經 [CN]
 http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="中國 / 生活" ,精彩綜藝
-http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8?epg=cntv-cctv3?回看=http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8
-#EXTINF:-1 group-title="中國 / 生活" ,精彩電影
-http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8?epg=cntv-cctv6?回看=http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8
-#EXTINF:-1 group-title="中國 / 生活" ,精彩電視
-http://39.134.24.193/PLTV/88888888/224/3221225813/index.m3u8?epg=cntv-cctv8?回看=http://39.134.24.193/PLTV/88888888/224/3221225813/index.m3u8
-#EXTINF:-1 group-title="中國 / 生活" ,精彩體育
-http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8?epg=cntv-cctv5?回看=http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8
-#EXTINF:-1 group-title="中國 / 生活" ,精彩體育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
 #EXTINF:-1 group-title="台灣" ,緯來戲劇台
 http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
 #EXTINF:-1 group-title="台灣" ,緯來日本台
@@ -567,10 +477,6 @@ https://jpts.sinovision.net/livestream.m3u8
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
 #EXTINF:-1 group-title="生活" ,美食星球
 http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
-#EXTINF:-1 group-title="香港" ,翡翠台
-http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1 group-title="香港" ,翡翠台
-http://61.238.6.49:8000/bysid/1
 #EXTINF:0 ,翡翠台HD
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 group-title="台灣" ,華視
@@ -583,13 +489,13 @@ http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
 http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:0 ,衛視電影台HD
 http://107.167.5.66:80/mylive/102/2061/index.m3u8
-#EXTINF:-1 group-title="體育" ,超級體育
-http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
+#EXTINF:-1 group-title="香港" ,賽馬直擊
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-HR-NO/02.m3u8
 #EXTINF:-1 group-title="越南" ,越南ANTV HD [VN]
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-#EXTINF:-1 group-title="香港" ,開電視
-http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 group-title="中國 / 生活" ,陽光衛視
+https://stream.isuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 group-title="香港" ,陽光衛視
 https://stream.isuntv.com/680k/mid_video_index.m3u8
 #EXTINF:-1 group-title="中國 / 生活" ,雙峰電視一套 (360p)
 http://hnsf.chinashadt.com:2036/zhuanma/tv1.stream_360p/playlist.m3u8
@@ -599,73 +505,37 @@ http://dslive.grtn.cn/yfzh/sd/live.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 group-title="香港" ,風凰資訊
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-240-1_live.m3u8
-#EXTINF:-1 group-title="香港" ,香港開電視
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-#EXTINF:-1 group-title="香港" ,香港開電視
+#EXTINF:0 group-title="香港" tvg-id="76" tvg-logo="https://hkdtmb.com/png_logo/76.png" ,香港國際財經台
+https://cdn.hkdtmb.com/hls/76/index.m3u8
+#EXTINF:-1 group-title="香港" ,香港衛視文旅[854*480]
+https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+#EXTINF:-1 group-title="香港" tvg-id="77" ,香港開電視
 http://livetv.dnsfor.me/channel.9.m3u8
-#EXTINF:-1 group-title="香港" ,香港開電視
+#EXTINF:-1 group-title="香港" tvg-id="77" ,香港開電視 [2]
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 group-title="香港" ,香港開電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 group-title="香港" ,香港電台普通話台
 https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 #EXTINF:-1 group-title="香港" ,香港電台視像新聞直播
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
-#EXTINF:-1 group-title="體育" ,體育賽事
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
 #EXTINF:-1 group-title="體育" ,魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="體育" ,魅力足球 [CN]
 http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰中文
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
-#EXTINF:-1 group-title="香港" ,鳳凰中文台[1280*720]
-http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1 group-title="香港" ,鳳凰衛視中文台
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰衛視中文台1[1280*720]
-http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰衛視中文台[1280*720]
-http://117.169.120.138:8080/live/fhchinese/.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰衛視中文台[1280*720]
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰衛視藍光2
-http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 group-title="香港" ,鳳凰衛視資訊台
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰衛視資訊台[1280*720]
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="香港" ,鳳凰衛視香港台
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰衛視香港台[1280*720]
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
-#EXTINF:-1 group-title="香港" ,鳳凰衛視高清[1280*720]
-http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰資訊
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰資訊
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
-#EXTINF:-1 group-title="香港" ,鳳凰資訊[1280*720]
-http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰資訊[1280*720]
-http://117.169.120.138:8080/live/fhzixun/index.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰資訊台[1280*720]
-http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰香港
-http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰香港
-http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰香港
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-#EXTINF:-1 group-title="香港" ,鳳凰香港
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=38044364
-#EXTINF:-1 group-title="香港" ,鳳凰香港台
-http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰香港台[1024*576]
-http://223.82.250.72/live/fhhongkong/1.m3u8
-#EXTINF:-1 group-title="香港" ,鳳凰香港藍光[1280*720]
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="中國 / 新聞" ,點掌財經
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 group-title="中國 / 新聞" ,點掌財經
 http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:0 ,Fox Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 ,Animal Planet [US]
+http://icego.club:80/vanderlei12/vanderlei12/54445
+#EXTINF:0 ,TLC US [2]
+http://62.182.81.111:8000/stef01/stef01/41828
+#EXTINF:0 ,Animal Planet [UK]
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000938
