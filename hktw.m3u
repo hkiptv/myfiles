@@ -1,6 +1,10 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="生活" ,Animal Planet [MY]
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:0 ,Animal Planet [UK]
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000938
+#EXTINF:0 ,Animal Planet [US]
+http://icego.club:80/vanderlei12/vanderlei12/54445
 #EXTINF:-1 group-title="生活" ,Asia Food Channel [VN]
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://unlocator.com/wp-content/uploads/2019/02/asiancrush-1.svg0CAsQjRxqFwoTCKDPwZSD6vICFQAAAAAdAAAAABAD" ,Asian Crush - Samsung
@@ -85,6 +89,8 @@ http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 #EXTINF:0 ,Fox News Now - Samsung
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 ,Fox Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="電影" ,FOX動作電影
 http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 #EXTINF:-1 group-title="電影" ,FOX家庭電影
@@ -191,7 +197,9 @@ http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1 group-title="香港" ,Now Sports Prime 630
 http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:-1 group-title="香港" ,Now 新聞台
+#EXTINF:0 group-title="香港" ,Now 新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 group-title="香港" ,Now 新聞台 [2]
 https://www.navchina.cf/IPTV/now.php?id=332
 #EXTINF:-1 group-title="香港" ,Now 直播331台
 https://api.leonardpark.dev/live/now/331
@@ -227,6 +235,8 @@ http://pelicanhosting.xyz:80/gfqonnad/7685216494/315807
 http://pelicanhosting.xyz:80/gfqonnad/7685216494/316760
 #EXTINF:0 ,TLC US
 http://pelicanhosting.xyz:80/gfqonnad/7685216494/393
+#EXTINF:0 ,TLC US [2]
+http://62.182.81.111:8000/stef01/stef01/41828
 #EXTINF:-1 group-title="生活" ,TLC旅遊生活
 http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/6V48LwT.jpg" ,Travel XP - Samsung
@@ -531,11 +541,3 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 group-title="中國 / 新聞" ,點掌財經
 http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:0 ,Fox Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:0 ,Animal Planet [US]
-http://icego.club:80/vanderlei12/vanderlei12/54445
-#EXTINF:0 ,TLC US [2]
-http://62.182.81.111:8000/stef01/stef01/41828
-#EXTINF:0 ,Animal Planet [UK]
-http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000938
