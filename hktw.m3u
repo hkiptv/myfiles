@@ -13,6 +13,10 @@ https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
 http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF:-1 group-title="娛樂" ,Astro AOD SD [MY]
 http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+#EXTINF:0 ,Astro 全佳
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:0 ,Astro 雙星
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 group-title="兒童" ,Baby TV [TW]
 http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:-1 group-title="生活" ,BBC 1
@@ -37,6 +41,8 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
 #EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/File:BonAppetitYoutubeChannelLogo.jpg#/media/File:BonAppetitYoutubeChannelLogo.jpg" ,Bon Appetit - Samsung
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0 ,Boo 恐怖片頻道
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 group-title="香港" ,C+頻道
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="兒童" ,Cbeebies [TW]
@@ -135,6 +141,8 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7079
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2pvexX2XDYZRZqkWjcZcJOiF2Duo-WLciBg&usqp=CAU" ,Hollywire - Samsung
 https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 ,KBS World HD
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 group-title="韓國" ,KBS1
 http://bbb.usa7.345888.xyz/ub.php?id=174
 #EXTINF:-1 group-title="兒童" ,Kids TV
@@ -172,7 +180,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
 #EXTINF:0 ,Nat Geo Wild CA
 http://icego.club:80/vanderlei12/vanderlei12/85791
 #EXTINF:-1 group-title="生活" ,Nat Geo Wild HD [MY]
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7081
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:0 ,Nat Geo Wild US
 http://scrapehost.com:8080/Cedrick/Cedrick/10863
 #EXTINF:-1 group-title="生活" ,NatGeo People
@@ -231,6 +239,8 @@ https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
 https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="國際 / 新聞" ,Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:0 ,Sony HD
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:0 ,Sony HD [MY]
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:0 group-title="兒童" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN5BgvTvLLqIht8NRNTroIRJtjkux9IoahNA&usqp=CAU" ,Supertoons - Samsung
@@ -253,6 +263,8 @@ http://62.182.81.111:8000/stef01/stef01/41828
 http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/6V48LwT.jpg" ,Travel XP - Samsung
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 ,TV8 [MY]
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 group-title="香港" ,TVB 星河
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 group-title="香港" ,TVB 無線新聞
