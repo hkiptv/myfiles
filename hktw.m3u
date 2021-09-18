@@ -5,8 +5,6 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000938
 #EXTINF:0 ,Animal Planet [US]
 http://icego.club:80/vanderlei12/vanderlei12/54445
-#EXTINF:-1 group-title="生活" ,Asia Food Channel [VN]
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://unlocator.com/wp-content/uploads/2019/02/asiancrush-1.svg0CAsQjRxqFwoTCKDPwZSD6vICFQAAAAAdAAAAABAD" ,Asian Crush - Samsung
 https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="娛樂" ,Astro AOD HD [MY]
@@ -585,3 +583,29 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 group-title="中國 / 新聞" ,點掌財經
 http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 ,CINEMAX
+http://107.167.5.66:80/mylive/102/2070/index.m3u8
+#EXTINF:-1 ,衛視電影台
+http://107.167.5.66:80/mylive/102/2061/index.m3u8
+#EXTINF:-1 ,東森電影
+http://107.167.5.66:80/mylive/102/2062/index.m3u8
+#EXTINF:-1 ,緯來電影
+http://107.167.5.66:80/mylive/102/2063/index.m3u8
+#EXTINF:-1 ,龍祥電影
+http://107.167.5.66:80/mylive/102/2064/index.m3u8
+#EXTINF:-1 ,衛視中文台
+http://107.167.5.66:80/mylive/102/2031/index.m3u8
+#EXTINF:-1 ,年代新聞
+http://107.167.5.66:80/mylive/102/2050/index.m3u8
+#EXTINF:-1 ,非凡新聞
+http://107.167.5.66:80/mylive/102/2058/index.m3u8
+#EXTINF:-1 ,NOW新聞台
+http://104.192.80.69/api.auete.com/ggg.m3u8.php?id=16
+#EXTINF:-1 ,有線體育台
+http://104.192.80.69/api.auete.com/ggg.m3u8.php?id=27
+#EXTINF:-1 ,有線財經資訊台
+http://104.192.80.69/api.auete.com/ggg.m3u8.php?id=28
+#EXTINF:-1 ,HBO
+http://104.192.80.69/api.auete.com/ggg.m3u8.php?id=43
+#EXTINF:-1 ,星空衛視
+http://104.192.80.69/api.auete.com/ggg.m3u8.php?id=18
