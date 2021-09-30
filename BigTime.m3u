@@ -11,11 +11,11 @@ https://api.leonardpark.dev/live/now/331
 http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-1 group-title="香港 / 綜合" tvg-name="[4]ViuTV" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png", [4]ViuTV (HK)
 https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-2group-title="香港 / 綜合" tvg-name="[4]ViuTV" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png", [4]ViuTV (CN)
+#EXTINF:-1 group-title="香港 / 綜合" tvg-name="[4]ViuTV" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png", [4]ViuTV (CN)
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviutv99
 #EXTINF:-1 group-title="香港 / 綜合" tvg-name="[5]ViuTV Six" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/326px-ViuTVsix-logo.svg.png", [5]ViuTV Six (HK)
 https://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:-2group-title="香港 / 綜合" tvg-name="[5]ViuTV Six" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/326px-ViuTVsix-logo.svg.png", [5]ViuTV Six (CN)
+#EXTINF:-1 group-title="香港 / 綜合" tvg-name="[5]ViuTV Six" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/326px-ViuTVsix-logo.svg.png", [5]ViuTV Six (CN)
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviu696
 #EXTINF:-1 group-title="體育" tvg-name="[6]Now Sports Prime" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png", [6]Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
@@ -189,131 +189,155 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
 #EXTINF:-1 group-title="電影" tvg-name="[68]HBO" tvg-logo="https://static.epg.best/us/HBO.us.png",[68]HBO
 https://gratismkctv.net/film/hbo.m3u8
-#EXTINF:-1 group-title="電影" tvg-name="[69]HBO[MY]" tvg-logo="https://static.epg.best/us/HBO.us.png",[69]HBO[MY]
+#EXTINF:-1 group-title="電影" tvg-name="[68]HBO" tvg-logo="https://static.epg.best/us/HBO.us.png",[68]HBO (TW)
+http://50.7.61.148:30080/Entry/hbo
+#EXTINF:-1 group-title="電影" tvg-name="[68]HBO" tvg-logo="https://static.epg.best/us/HBO.us.png",[68]HBO (MY)
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 group-title="電影" tvg-name="[70]HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",[70]HBO Family
+#EXTINF:-1 group-title="電影" tvg-name="[69]HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",[69]HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 group-title="電影" tvg-name="[71]HBO Hits" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg",[71]HBO Hits
+#EXTINF:-1 group-title="電影" tvg-name="[70]HBO Hits" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg",[70]HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 group-title="電影" tvg-name="[72]Rock Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png",[72]Rock Entertainment (ID)
+#EXTINF:-1 group-title="電影" tvg-name="[71]Rock Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png",[71]Rock Entertainment (ID)
 http://45.126.83.51/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="電影" tvg-name="[73]Rock Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rock_Extreme.png",[73]Rock Extreme (ID)
+#EXTINF:-1 group-title="電影" tvg-name="[72]Rock Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rock_Extreme.png",[72]Rock Extreme (ID)
 http://45.126.83.51/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[74]年代新聞台" tvg-logo="https://img.isuper.tv/live-tv/era-news-live.jpg",[74]年代新聞台
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[73]年代新聞台" tvg-logo="https://img.isuper.tv/live-tv/era-news-live.jpg",[73]年代新聞台
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
-#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[75]東森新聞台" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/mobile_logo.png",[75]東森新聞台
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[74]東森新聞台" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/mobile_logo.png",[74]東森新聞台
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[76]東森財經新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",[76]東森財經新聞台
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[75]東森財經新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",[75]東森財經新聞台
 rtmp://59.124.75.136:1935/sat/tv571
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[77]東森超視" tvg-logo="http://tv.itver.cc/wp-content/uploads/2016/04/EBC-Super-TV.jpg",[77]東森超視
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[76]東森超視" tvg-logo="http://tv.itver.cc/wp-content/uploads/2016/04/EBC-Super-TV.jpg",[76]東森超視
 rtmp://59.124.75.136:1935/sat/tv521
-#EXTINF:-1 group-title="電影" tvg-name="[78]東森電影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png",[78]東森電影 (CN)
+#EXTINF:-1 group-title="電影" tvg-name="[77]東森電影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png",[77]東森電影 (CN)
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
-#EXTINF:-1 group-title="電影" tvg-name="[79]東森洋片" tvg-logo="https://3.bp.blogspot.com/-NGty481KxS0/WiJm8PwdXmI/AAAAAAAAAhg/ilH1GzepyS40LlEUJkxCUVqxES2fgMSdQCLcBGAs/s1600/66.png",[79]東森洋片 (CN)
+#EXTINF:-1 group-title="電影" tvg-name="[78]東森洋片" tvg-logo="https://3.bp.blogspot.com/-NGty481KxS0/WiJm8PwdXmI/AAAAAAAAAhg/ilH1GzepyS40LlEUJkxCUVqxES2fgMSdQCLcBGAs/s1600/66.png",[78]東森洋片 (CN)
 http://113.64.147.49:808/hls/59/index.m3u8
-#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[80]三立Live新聞" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRdElh7G6aI_HNVtwZaidqLckwl20fFa0rv3koDDw=s900-c-k-c0x00ffffff-no-rj",[80]三立Live新聞
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[79]三立Live新聞" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRdElh7G6aI_HNVtwZaidqLckwl20fFa0rv3koDDw=s900-c-k-c0x00ffffff-no-rj",[79]三立Live新聞
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[81]三立iNEWS" tvg-logo="http://tv.itver.cc/wp-content/uploads/2017/09/SET-iNews.jpg",[81]三立iNEWS
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[80]三立iNEWS" tvg-logo="http://tv.itver.cc/wp-content/uploads/2017/09/SET-iNews.jpg",[80]三立iNEWS
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[82]台視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png",[82]台視
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[81]三立台灣" tvg-logo="https://img.isuper.tv/live-tv/set-taiwan-live.jpg",[81]三立台灣
+https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[81]三立都會" tvg-logo="https://img.isuper.tv/live-tv/set-metro-live.jpg",[81]三立都會
+https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[81]台視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png",[81]台視
 rtmp://59.124.75.136/sat/tv071
-#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[83]台視新聞台" tvg-logo="https://img.vpnclub.cc/content/zh/2018/09/TTV-News-Logo.jpg",[83]台視新聞台
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[81]台視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png",[81]台視 HD
+http://50.7.61.148:30080/Entry/ttv
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[82]台視新聞台" tvg-logo="https://img.vpnclub.cc/content/zh/2018/09/TTV-News-Logo.jpg",[82]台視新聞台
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[84]TVBS新聞台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png",[84]TVBS新聞台
-rtmp://59.124.75.136/sat/tv551
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[85]TVBS歡樂台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png",[85]TVBS歡樂台
-rtmp://59.124.75.136/sat/tv421
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[86]中視" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png",[86]中視
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[83]TVBS新聞台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png",[83]TVBS新聞台
+rtmp://161.202.204.248:1935/sat/tv551
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[83]TVBS新聞台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png",[83]TVBS新聞台 HD
+http://50.7.61.148:30080/Entry/tvbsnews
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[84]TVBS歡樂台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png",[84]TVBS歡樂台
+rtmp://161.202.204.248:1935/sat/tv421
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[84]TVBS歡樂台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png",[84]TVBS歡樂台 HD
+http://50.7.61.148:30080/Entry/tvbs
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[85]中視" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png",[85]中視
 rtmp://59.124.75.136/sat/tv091
-#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[87]中視新聞台" tvg-logo="https://img.isuper.tv/live-tv/ctv-news-live.jpg",[87]中視新聞台
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[85]中視" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png",[85]中視 HD
+http://50.7.61.148:30080/Entry/ctv
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[86]中視新聞台" tvg-logo="https://img.isuper.tv/live-tv/ctv-news-live.jpg",[86]中視新聞台
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[88]中視經典台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c5/CTV_Classic.png",[88]中視經典台
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[87]中視經典台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c5/CTV_Classic.png",[87]中視經典台
 http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[89]中視菁采台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_Bravo.png",[89]中視菁采台
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[88]中視菁采台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_Bravo.png",[88]中視菁采台
 http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
-#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[90]中天新聞台" tvg-logo="https://img.isuper.tv/live-tv/cti-news-live.jpg",[90]中天新聞台
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[89]中天新聞台" tvg-logo="https://img.isuper.tv/live-tv/cti-news-live.jpg",[89]中天新聞台
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[91]中天亞洲台" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ya83Hn4c3MNM9KNIbni2RvVEIzC_2ghQuu8o3LniBFIwN6-GPC1oQ7nG4A&s",[91]中天亞洲台
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[90]中天亞洲台" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ya83Hn4c3MNM9KNIbni2RvVEIzC_2ghQuu8o3LniBFIwN6-GPC1oQ7nG4A&s",[90]中天亞洲台
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745678
-#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[92]寰宇新聞台" tvg-logo="https://creator-taiwan.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-10-at-10.35.40-PM-1.png",[92]寰宇新聞台
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[91]寰宇新聞台" tvg-logo="https://creator-taiwan.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-10-at-10.35.40-PM-1.png",[91]寰宇新聞台
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[93]緯來日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png",[93]緯來日本
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[92]緯來日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png",[92]緯來日本
 rtmp://59.124.75.136/sat/tv771
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[94]緯來育樂" tvg-logo="https://img.isuper.tv/live-tv/vl-maxtv-live.jpg",[94]緯來育樂
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[93]緯來育樂" tvg-logo="https://img.isuper.tv/live-tv/vl-maxtv-live.jpg",[93]緯來育樂
 rtmp://59.124.75.136/sat/tv701
-#EXTINF:-1 group-title="體育" tvg-name="[95]緯來體育" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg",[95]緯來體育
+#EXTINF:-1 group-title="體育" tvg-name="[94]緯來體育" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg",[94]緯來體育
 rtmp://59.124.75.136/sat/tv721
-#EXTINF:-1 group-title="電影" tvg-name="[96]緯來電影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png",[96]緯來電影
+#EXTINF:-1 group-title="電影" tvg-name="[95]緯來電影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png",[95]緯來電影
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[97]民視" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",[97]民視
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[96]民視" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",[96]民視
 rtmp://59.124.75.136/sat/tv051
-#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[98]民視新聞台" tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg",[98]民視新聞台
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[96]民視" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",[96]民視 HD
+http://50.7.61.147:30080/Entry/ftv
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[97]民視新聞台" tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg",[97]民視新聞台
 http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[99]民視旅遊" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png",[99]民視旅遊
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[97]民視新聞台" tvg-logo="https://img.isuper.tv/live-tv/ftv-news-live.jpg",[97]民視新聞台 HD
+http://50.7.61.148:30080/Entry/ftvnews
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[98]民視旅遊" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png",[98]民視旅遊
 http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[100]民視第一台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/FTV_One.png",[100]民視第一台
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[99]民視第一台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/FTV_One.png",[99]民視第一台
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[101]民視綜藝" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png",[101]民視綜藝
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[100]民視綜藝" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png",[100]民視綜藝
 http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[102]華視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",[102]華視
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[101]華視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",[101]華視
 rtmp://59.124.75.136:1935/sat/tv111
-#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[103]華視新聞資訊台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png",[103]華視新聞資訊台
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[101]華視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",[101]華視 HD
+http://50.7.61.147:30080/Entry/cts
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[102]華視新聞資訊台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png",[102]華視新聞資訊台
 http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[104]華視教育體育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png",[104]華視教育體育
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[103]華視教育體育" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png",[103]華視教育體育
 http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[105]亞洲旅遊台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png",[105]亞洲旅遊台
+#EXTINF:-1 group-title="台灣 / 新聞" tvg-name="[104]非凡商業" tvg-logo="https://img.isuper.tv/live-tv/ustv-business-live.jpg",[104]非凡商業 HD
+http://50.7.61.147:30080/Entry/ubnbus
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[105]JET綜合" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/70/Jet_logo_2007.png",[105]JET綜合 HD
+http://50.7.61.147:30080/Entry/jet
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[106]亞洲旅遊台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png",[106]亞洲旅遊台
 http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="體育" tvg-name="[106]FOX 體育1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",[106]FOX 體育1
+#EXTINF:-1 group-title="體育" tvg-name="[107]FOX 體育1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",[107]FOX 體育1
 http://8n6ygj3g.ottclub.xyz/iptv/7V9PW3HCSHD4G8/7322/index.m3u8
-#EXTINF:-1 group-title="體育" tvg-name="[107]FOX 體育2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",[107]FOX 體育2
+#EXTINF:-1 group-title="體育" tvg-name="[108]FOX 體育2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",[108]FOX 體育2
 NIL
-#EXTINF:-1 group-title="體育" tvg-name="[108]FOX 體育3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",[108]FOX 體育3
+#EXTINF:-1 group-title="體育" tvg-name="[109]FOX 體育3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",[109]FOX 體育3
 NIL
-#EXTINF:-1 group-title="電影" tvg-name="[109]Boo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest?cb=20171225070136",[109]Boo
+#EXTINF:-1 group-title="電影" tvg-name="[110]Boo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest?cb=20171225070136",[110]Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 group-title="電影" tvg-name="[110]Thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",[110]Thrill
+#EXTINF:-1 group-title="電影" tvg-name="[111]Thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",[111]Thrill
 http://45.126.83.51/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1 group-title="國際綜合" tvg-name="[111]Astro Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",[111]Astro Citra
+#EXTINF:-1 group-title="國際綜合" tvg-name="[112]Astro Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",[112]Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 group-title="國際綜合" tvg-name="[112]Astro 全佳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",[112]Astro 全佳
+#EXTINF:-1 group-title="國際綜合" tvg-name="[113]Astro 全佳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",[113]Astro 全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1 group-title="國際綜合" tvg-name="[113]Astro 雙星" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png",[113]Astro 雙星
+#EXTINF:-1 group-title="國際綜合" tvg-name="[114]Astro 雙星" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png",[114]Astro 雙星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 group-title="兒童" tvg-name="[114]Astro 小太陽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png",[114]Astro 小太陽
+#EXTINF:-1 group-title="兒童" tvg-name="[115]Astro 小太陽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png",[115]Astro 小太陽
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1 group-title="兒童" tvg-name="[115]Nic" tvg-logo="https://pbs.twimg.com/profile_images/1191319934644736001/4LrekZ8U_400x400.jpg",[115]Nic
+#EXTINF:-1 group-title="兒童" tvg-name="[116]Nic" tvg-logo="https://pbs.twimg.com/profile_images/1191319934644736001/4LrekZ8U_400x400.jpg",[116]Nic
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1 group-title="兒童" tvg-name="[116]Nic Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/1200px-Nick_Jr._Channel_logo.svg.png",[116]Nic Jr
+#EXTINF:-1 group-title="兒童" tvg-name="[117]Nic Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/1200px-Nick_Jr._Channel_logo.svg.png",[117]Nic Jr
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-#EXTINF:-1 group-title="兒童" tvg-name="[117]Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png",[117]Disney
+#EXTINF:-1 group-title="兒童" tvg-name="[118]Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png",[118]Disney
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 group-title="兒童" tvg-name="[118]Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",[118]Disney Jr
+#EXTINF:-1 group-title="兒童" tvg-name="[119]Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",[119]Disney Jr
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1 group-title="兒童" tvg-name="[119]Cartoon Network" tvg-logo="https://www.newton.com.tw/img/8/409/cGcq5CMxgzM0MGZkVmNkFWNkFTM4QTZ0MDMhVTZxQ2NyMGNhRTO3gjZzUDZv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg",[119]Cartoon Network (CA)
+#EXTINF:-1 group-title="兒童" tvg-name="[120]Cartoon Network" tvg-logo="https://www.newton.com.tw/img/8/409/cGcq5CMxgzM0MGZkVmNkFWNkFTM4QTZ0MDMhVTZxQ2NyMGNhRTO3gjZzUDZv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg",[120]Cartoon Network (CA)
 http://8n6ygj3g.ottclub.xyz/iptv/7V9PW3HCSHD4G8/6508/index.m3u8
-#EXTINF:-1 group-title="兒童" tvg-name="[120]Cbeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/1200px-CBeebies.png",[120]Cbeebies
+#EXTINF:-1 group-title="兒童" tvg-name="[121]Cbeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/1200px-CBeebies.png",[121]Cbeebies
 http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[121]MoMo綜合" tvg-logo="https://img.isuper.tv/live-tv/momo-tv-live.jpg",[121]MoMo綜合
+#EXTINF:-1 group-title="台灣 / 綜合" tvg-name="[122]MoMo綜合" tvg-logo="https://img.isuper.tv/live-tv/momo-tv-live.jpg",[122]MoMo綜合
 rtmp://59.124.75.136/sat/tv761
-#EXTINF:-1 group-title="體育" tvg-name="[122]Eleven1" tvg-logo="https://www.thesportsdb.com/images/media/logo/Eleven_Sports_1_Portugal.png",[122]Eleven1
+#EXTINF:-1 group-title="體育" tvg-name="[123]Eleven1" tvg-logo="https://www.thesportsdb.com/images/media/logo/Eleven_Sports_1_Portugal.png",[123]Eleven1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 group-title="體育" tvg-name="[122]Eleven1" tvg-logo="https://www.thesportsdb.com/images/media/logo/Eleven_Sports_1_Portugal.png",[122]Eleven1
+#EXTINF:-1 group-title="體育" tvg-name="[123]Eleven1" tvg-logo="https://www.thesportsdb.com/images/media/logo/Eleven_Sports_1_Portugal.png",[123]Eleven1
 rtmp://59.124.75.136/sat/tv721
-#EXTINF:-1 group-title="體育" tvg-name="[123]Eleven2" tvg-logo="https://www.thesportsdb.com/images/media/logo/Eleven_Sports_2_Belgium.png",[123]Eleven2
+#EXTINF:-1 group-title="體育" tvg-name="[124]Eleven2" tvg-logo="https://www.thesportsdb.com/images/media/logo/Eleven_Sports_2_Belgium.png",[124]Eleven2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-#EXTINF:-1 group-title="體育" tvg-name="[123]Eleven2" tvg-logo="https://www.thesportsdb.com/images/media/logo/Eleven_Sports_2_Belgium.png",[123]Eleven2
+#EXTINF:-1 group-title="體育" tvg-name="[124]Eleven2" tvg-logo="https://www.thesportsdb.com/images/media/logo/Eleven_Sports_2_Belgium.png",[124]Eleven2
 rtmp://59.124.75.136:1935/sat/tv741
-#EXTINF:-1 group-title="體育" tvg-name="[124]ELTA體育1台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1940_20210628140649.png",[124]ELTA體育1台
+#EXTINF:-1 group-title="體育" tvg-name="[125]ELTA體育1台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1940_20210628140649.png",[125]ELTA體育1台
 rtmp://161.202.204.248/sat/md021
-#EXTINF:-1 group-title="體育" tvg-name="[125]ELTA體育2台" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/ELTA-Sports-Logo.jpg",[125]ELTA體育2台
+#EXTINF:-1 group-title="體育" tvg-name="[126]ELTA體育2台" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/ELTA-Sports-Logo.jpg",[126]ELTA體育2台
 rtmp://161.202.204.248/sat/md031
-#EXTINF:-1 group-title="體育" tvg-name="[126]ELTA綜合台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",[126]ELTA綜合台
+#EXTINF:-1 group-title="體育" tvg-name="[127]ELTA綜合台" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png",[127]ELTA綜合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-#EXTINF:-1 group-title="體育" tvg-name="[127]博斯魅力台" tvg-logo="http://www.nettvpro.live/uploads/19/1-1Z220195433103.jpg",[127]博斯魅力台
+#EXTINF:-1 group-title="體育" tvg-name="[128]博斯魅力台" tvg-logo="http://www.nettvpro.live/uploads/19/1-1Z220195433103.jpg",[128]博斯魅力台
 rtmp://59.124.75.136/sat/md031
-#EXTINF:-1 group-title="體育" tvg-name="[128]博斯運動1台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png",[128]博斯運動1台
+#EXTINF:-1 group-title="體育" tvg-name="[129]博斯運動1台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png",[129]博斯運動1台
 rtmp://59.124.75.136/sat/md032
-#EXTINF:-1 group-title="體育" tvg-name="[129]博斯運動2台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png",[129]博斯運動2台
+#EXTINF:-1 group-title="體育" tvg-name="[130]博斯運動2台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png",[130]博斯運動2台
 rtmp://59.124.75.136/sat/md041
 #EXTINF:-1 group-title="國際新聞" tvg-name="[301]測試 - Al Jazeera" tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6.jpg",[301]測試 - Al Jazeera
 http://125.227.210.37:8938/VideoInput/play.ts
@@ -335,7 +359,8 @@ http://125.227.210.55:18184/VideoInput/play.ts
 http://125.227.210.37:16671/VideoInput/play.ts
 #EXTINF:-1 group-title="兒童" tvg-name="[305]測試 - Cartoon Network" tvg-logo="https://www.newton.com.tw/img/8/409/cGcq5CMxgzM0MGZkVmNkFWNkFTM4QTZ0MDMhVTZxQ2NyMGNhRTO3gjZzUDZv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg",[305]測試 - Cartoon Network
 http://125.227.210.55:16671/VideoInput/play.ts
-#REF!
+#EXTINF:-1 group-title="國際新聞" tvg-name="[306]測試 - CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",[306]測試 - CNBC
+http://125.227.210.37:16415/VideoInput/play.ts
 #EXTINF:-1 group-title="國際新聞" tvg-name="[306]測試 - CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png",[306]測試 - CNBC
 http://125.227.210.55:16415/VideoInput/play.ts
 #EXTINF:-1 group-title="國際綜合" tvg-name="[307]測試 - Discovery Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png",[307]測試 - Discovery Asia
@@ -462,17 +487,3 @@ http://125.227.210.55:15078/VideoInput/play.ts
 http://125.227.210.37:18358/VideoInput/play.ts
 #EXTINF:-1 group-title="體育" tvg-name="[337]測試 - 緯來體育" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg",[337]測試 - 緯來體育
 http://125.227.210.55:18358/VideoInput/play.ts
-#EXTINF:-1 group-title="日本" tvg-name="[338]測試 - TV Tokyo" tvg-logo="https://www.chaojidianshi.net/img/dongjds.png",[338]測試 - TV Tokyo
-https://flv3948069e.live.126.net/live/d56bbef9c3f10679819378fc5b5b8cc6.flv
-#EXTINF:-1 group-title="日本" tvg-name="[339]測試 - TV Asahi" tvg-logo="https://www.chaojidianshi.net/img/cr.png",[339]測試 - TV Asahi
-https://flv3948069e.live.126.net/live/a125e79fe952f2ac437e70341205a4e4.flv
-#EXTINF:-1 group-title="日本" tvg-name="[340]測試 - NHK BS Premium" tvg-logo="https://www.chaojidianshi.net/img/nhk.png",[340]測試 - NHK BS Premium
-https://flv3948069e.live.126.net/live/a72a725e24ffe6415fb5066b0d81e108.flv
-#EXTINF:-1 group-title="日本" tvg-name="[341]測試 - NHK BS Premium Tokyo" tvg-logo="https://www.chaojidianshi.net/img/nhk.png",[341]測試 - NHK BS Premium Tokyo
-https://flv3948069e.live.126.net/live/310973f4c85ad622f0fe3ef54270a87e.flv
-#EXTINF:-1 group-title="日本" tvg-name="[342]測試 - Nippon TV" tvg-logo="https://www.chaojidianshi.net/img/jpana.png",[342]測試 - Nippon TV
-https://flv3948069e.live.126.net/live/7e8d49353bf888eefa9ca67bc5e36cf8.flv
-#EXTINF:-1 group-title="日本" tvg-name="[343]測試 - Fuji TV" tvg-logo="https://www.chaojidianshi.net/img/husk.png",[343]測試 - Fuji TV
-https://flv3948069e.live.126.net/live/3f0975ccdbc27434b5acd7229f6a5619.flv
-#EXTINF:-1 group-title="日本" tvg-name="[344]測試 - TBS 1" tvg-logo="https://www.chaojidianshi.net/img/tbs.png",[344]測試 - TBS 1
-https://flv3948069e.live.126.net/live/00140892d6576bf6c4a382668809de19.flv
