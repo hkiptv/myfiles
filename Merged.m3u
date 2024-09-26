@@ -3617,75 +3617,11 @@ http://8n6ygj3g.ottclub.xyz/iptv/L6H3RZT9LDYSZ5/1090/index.m3u
 http://8n6ygj3g.ottclub.xyz/iptv/L6H3RZT9LDYSZ5/6431/index.m3u
 #EXTINF:-1 group-title="US/CA" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", YTV HD CA
 http://8n6ygj3g.ottclub.xyz/iptv/L6H3RZT9LDYSZ5/6441/index.m3u
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", CINEMAX
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8559/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", TLC
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8511/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", TVBS HD
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", TVBS新聞
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", TVBS歡樂台
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 三立台灣
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8521/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 三立戲劇
-http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 三立新聞
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 三立綜合
 http://37.27.111.214:8080/live/31/hls.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 三立都會
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8522/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 中天新聞
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 中天綜合
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 中視
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 亞洲旅遊
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8513/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 公視
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8505/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 動物星球
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8512/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 博斯運動1
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8587/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 國冡地理野生
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8510/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 年代新聞
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 東森幼幼
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8515/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 東森戲劇
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 東森新聞
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 東森綜合
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 東森美洲
-http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 東森財經
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 東森超視
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 民視
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8504/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 民視新聞
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 環宇新聞
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 緯來日本
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 緯來綜合
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 緯來育樂
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8584/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 緯來電影
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8579/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 緯來體育
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 華視
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8503/.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
