@@ -1,56 +1,56 @@
-﻿#EXTM3U
+﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz"
 #EXTINF:-1 group-title="{HOY} 奇妙電視" tvg-id="77" tvg-name="HOY TV" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/77.png", HOY TV[直播]
-https://live.hkdvb.com/hls/live/77.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/77.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{HOY} 奇妙電視" tvg-id="78" tvg-name="HOY TV 資訊台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/78.png", HOY TV 資訊台[直播]
-https://live.hkdvb.com/hls/live/78.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/78.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{HOY} 奇妙電視" tvg-id="76" tvg-name="HOY 國際財經台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/76.png", HOY 國際財經台[直播]
-https://live.hkdvb.com/hls/live/76.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/76.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{NowTV} Now Player" tvg-id="99" tvg-name="ViuTV" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/99.png", ViuTV[直播]
-https://live.hkdvb.com/hls/live/99.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/99.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{NowTV} Now Player" tvg-id="96" tvg-name="ViuTV Six" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/96.png", ViuTV Six[直播]
-https://live.hkdvb.com/hls/live/96.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/96.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{NowTV} Now Player" tvg-id="138" tvg-name="Now Superstars 星影台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/138.png", Now Superstars 星影台[直播]
-https://live.hkdvb.com/hls/live/138.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/138.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{NowTV} Now Player" tvg-id="332" tvg-name="Now NEWS 新聞台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/332.png", Now NEWS 新聞台[直播]
-https://live.hkdvb.com/hls/live/332.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/332.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{NowTV} Now Player" tvg-id="621" tvg-name="Now Sports 英超1台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/621.jpg", Now Sports 英超1台[直播]
-https://live.hkdvb.com/hls/live/621.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/621.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{NowTV} Now Player" tvg-id="630" tvg-name="Now Sports Prime" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/630.png", Now Sports Prime[直播]
-https://live.hkdvb.com/hls/live/630.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/630.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{NowTV} Now Player" tvg-id="632" tvg-name="Now Sports 632" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/632.jpg", Now Sports 632[直播]
-https://live.hkdvb.com/hls/live/632.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/632.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{RTHK} 香港電台" tvg-id="31" tvg-name="港台電視 31" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/31.png", 港台電視 31[直播]
-https://live.hkdvb.com/hls/live/31.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/31.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{RTHK} 香港電台" tvg-id="32" tvg-name="港台電視 32" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/32.png", 港台電視 32[直播]
-https://live.hkdvb.com/hls/live/32.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/32.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{RTHK} 香港電台" tvg-id="33" tvg-name="CCTV-1  港澳版" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/33.png", CCTV-1  港澳版[直播]
-https://live.hkdvb.com/hls/live/33.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/33.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{RTHK} 香港電台" tvg-id="34" tvg-name="CGTN Documentary" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/34.png", CGTN Documentary[直播]
-https://live.hkdvb.com/hls/live/34.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/34.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{RTHK} 香港電台" tvg-id="35" tvg-name="CGTN English" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/35.png", CGTN English[直播]
-https://live.hkdvb.com/hls/live/35.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/35.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{RTHK} 香港電台" tvg-id="36" tvg-name="RTHK36" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/36.png", RTHK36[直播]
-https://live.hkdvb.com/hls/live/36.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/36.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="81" tvg-name="Jade 翡翠台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/81.png", Jade 翡翠台[直播]
-https://live.hkdvb.com/hls/live/81.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/81.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="82" tvg-name="TVB PLUS" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/82.png", TVB PLUS[直播]
-https://live.hkdvb.com/hls/live/82.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/82.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="83" tvg-name="News 新聞台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/83.png", News 新聞台[直播]
-https://live.hkdvb.com/hls/live/83.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/83.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="84" tvg-name="Pearl 明珠台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/84.png", Pearl 明珠台[直播]
-https://live.hkdvb.com/hls/live/84.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/84.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="85" tvg-name="鳳凰香港台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/85.png", 鳳凰香港台[直播]
-https://live.hkdvb.com/hls/live/85.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/85.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="800" tvg-name="翡翠4K" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/800.png", 翡翠4K[直播]
-https://live.hkdvb.com/hls/live/800.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/800.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="801" tvg-name="Popc" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/801.png", Popc[直播]
-https://live.hkdvb.com/hls/live/801.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/801.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="802" tvg-name="美亞" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/802.png", 美亞[直播]
-https://live.hkdvb.com/hls/live/802.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/802.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="803" tvg-name="華語劇台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/803.png", 華語劇台[直播]
-https://live.hkdvb.com/hls/live/803.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/803.m3u8?token=402135062139817
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="804" tvg-name="粵語片台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/804.png", 粵語片台[直播]
-https://live.hkdvb.com/hls/live/804.m3u8?token=402135062175230
+https://live.hkdvb.com/hls/live/804.m3u8?token=402135062139817
 #EXTINF:-1 group-title="Adult" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 21 Sextury
 http://8n6ygj3g.ottclub.xyz/iptv/L6H3RZT9LDYSZ5/12205/index.m3u
 #EXTINF:-1 group-title="Adult" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", A3 Bikini
@@ -481,20 +481,152 @@ http://8n6ygj3g.ottclub.xyz/iptv/L6H3RZT9LDYSZ5/11068/index.m3u
 http://8n6ygj3g.ottclub.xyz/iptv/L6H3RZT9LDYSZ5/147/index.m3u
 #EXTINF:-1 group-title="Adult" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Русская Ночь orig
 http://8n6ygj3g.ottclub.xyz/iptv/L6H3RZT9LDYSZ5/9344/index.m3u
+#EXTINF:-1 group-title="Japan" tvg-id="Animax.jp" tvg-name="" tvg-country="" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png", Animax (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 group-title="Japan" tvg-id="BBCNewsAsiaPacific.uk" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/REuN9RR.png", BBC News Asia Pacific (720p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="BSAsahi.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/huXFL3A.png", BS Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-1 group-title="Japan" tvg-id="BSFuji.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/aDdwjjc.png", BS Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1 group-title="Japan" tvg-id="BSNipponTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/D8lhZCI.png", BS Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-1 group-title="Japan" tvg-id="BSShochikuTokyu.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/pSKCgvv.png", BS Shochiku Tokyu (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+#EXTINF:-1 group-title="Japan" tvg-id="BSTBS.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/h20eGKq.png", BS TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1 group-title="Japan" tvg-id="BSTVTokyo.jp" tvg-name="" tvg-country="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/BSTVTokyo_2024logo-TeletoVer.svg/revision/latest/scale-to-width-down/512", BS TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1 group-title="Japan" tvg-id="BloombergTVAsia.hk" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/OuogLHx.png", Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="ChannelGinga.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/zfvyspc.png", Channel Ginga (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+#EXTINF:-1 group-title="Japan" tvg-id="CNNj.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/Ft6wEdO.png", CNNj (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+#EXTINF:-1 group-title="Japan" tvg-id="DisneyChannel.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/VSq7b5E.jpg", Disney Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 group-title="Japan" tvg-id="DisneyJunior.jp" tvg-name="" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png", Disney Junior Japan (400p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 group-title="Japan" tvg-id="EiseiGekijo.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/0ALvy3B.png", Eisei Gekijo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 #EXTINF:-1 group-title="Japan" tvg-id="CGNTVJapan.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/5LNZeVq.png", CGNTV Japan (1080p)
 https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="FamilyGekijyo.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/Azdf7m6.png", Family Gekijo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+#EXTINF:-1 group-title="Japan" tvg-id="JOCXDTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/sEWDmMD.png", Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 group-title="Japan" tvg-id="FishingVision.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/qX6nNOF.png", Fishing Vision (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+#EXTINF:-1 group-title="Japan" tvg-id="FujiTVNEXT.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/j95aeSA.png", Fuji TV NEXT (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+#EXTINF:-1 group-title="Japan" tvg-id="GAORASPORTS.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/UgKRfuw.png", Gaora Sports (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 group-title="Japan" tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/OuogLHx.png", Bloomberg TV Asia Live Event (720p)
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="GolfNetwork.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/01Jsa2Z.png", Golf Network (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+#EXTINF:-1 group-title="Japan" tvg-id="GreenChannel.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/sD3z8j7.png", Green Channel (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+#EXTINF:-1 group-title="Japan" tvg-id="History.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/ki1ktWg.png", History Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-1 group-title="Japan" tvg-id="EWTNAfricaAsia.us" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/F8ZM25a.png", EWTN Africa Asia (720p)
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="EWTNAsiaPacific.us" tvg-name="" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png", EWTN Asia-Pacific (720p) [Not 24/7]
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="HomeDramaChannel.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/iNkKh7w.png", Home Drama Channel (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
 #EXTINF:-1 group-title="Japan" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Gaki no Tsukai (English Subs) (720p)
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="JSPORTS1.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/vEpjLnj.png", J Sports 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 group-title="Japan" tvg-id="JSPORTS2.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/g1GLVH2.png", J Sports 2 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 group-title="Japan" tvg-id="JSPORTS3.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xdI361E.png", J Sports 3 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 group-title="Japan" tvg-id="JSPORTS4.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/fBcyZNL.png", J Sports 4 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="Japan" tvg-id="JidaigekiSenmonChannel.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/lcwDgKU.png", Jidaigeki Senmon (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+#EXTINF:-1 group-title="Japan" tvg-id="KidsStation.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/pb94kIk.png", Kids Station (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 group-title="Japan" tvg-id="LaLaTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/APBty36.png", LaLa TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+#EXTINF:-1 group-title="Japan" tvg-id="KayoPops.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/7VcFGkx.png", Kayo Pops (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-1 group-title="Japan" tvg-id="JODXDTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/WMNg5De.png", Kansai TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+#EXTINF:-1 group-title="Japan" tvg-id="MONDOTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/mmpjpu2.png", Mondo TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+#EXTINF:-1 group-title="Japan" tvg-id="JOOYDTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/RfrkGrd.png", MBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:-1 group-title="Japan" tvg-id="MoviePlus.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/3OTLJpi.png", Movie Plus (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 group-title="Japan" tvg-id="MTV.jp" tvg-name="" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png", MTV Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-1 group-title="Japan" tvg-id="MusicJapanTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/HmCI5mk.png", Music Japan TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1 group-title="Japan" tvg-id="NationalGeographic.jp" tvg-name="" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png", National Geographic Japan (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 group-title="Japan" tvg-id="JOABDTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/WxtftlO.png", NHK E (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 group-title="Japan" tvg-id="NHKBS.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/t0uZcSR.png", NHK BS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 group-title="Japan" tvg-id="NHKBSP4K.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/uvPpFo5.png", NHK BSP4K (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 group-title="Japan" tvg-id="JOAKDTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/fAZ2BEZ.png", NHK G (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 group-title="Japan" tvg-id="JOBKDTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/fAZ2BEZ.png", NHK G (Osaka) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1 group-title="Japan" tvg-id="NihonEigaSenmonChannel.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/PzwtC9K.png", Nihon Eiga Senmon (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1 group-title="Japan" tvg-id="NitteleGPlus.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/CfvqUup.png", Nittele G Plus (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+#EXTINF:-1 group-title="Japan" tvg-id="JOAXDTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/IxD8V5X.png", Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="Japan" tvg-id="NTVNEWS24.jp" tvg-name="" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/512px-News24.svg.png", NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="Japan" tvg-id="QVC.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xWSzQ34.png", QVC Japan (720p)
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="SkyA.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/h3KtKJ5.png", Sky A (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 group-title="Japan" tvg-id="SpaceShowerTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/PjjkT9P.png", Space Shower TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-1 group-title="Japan" tvg-id="StarChannel1.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/PSVgw99.png", Star 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1 group-title="Japan" tvg-id="JOUHDTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/0qtXIRM.png", Sun TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:-1 group-title="Japan" tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/Al1A8t2.png", TAKARAZUKA SKY STAGE (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 #EXTINF:-1 group-title="Japan" tvg-id="ShopChannel.jp" tvg-name="" tvg-country="" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png", Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="TABIChannel.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/JBePECx.png", Tabi Channel (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+#EXTINF:-1 group-title="Japan" tvg-id="JORXDTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/dUn2GRn.png", TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 group-title="Japan" tvg-id="TBSNewsCS.jp" tvg-name="" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TBS_News_2020_logo.png/512px-TBS_News_2020_logo.png", TBS News (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+#EXTINF:-1 group-title="Japan" tvg-id="ToeiChannel.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/MRSlSvm.png", Toei Channel (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 group-title="Japan" tvg-id="JOMXDTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/0i5rDRN.png", Tokyo MX1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+#EXTINF:-1 group-title="Japan" tvg-id="JOEXDTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/YCqB5Kj.png", TV Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 group-title="Japan" tvg-id="JOBHDTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/rUmrruq.png", TV Osaka (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+#EXTINF:-1 group-title="Japan" tvg-id="JOTXDTV.jp" tvg-name="" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/512px-TV_Tokyo_%28Japanese%29_2023.svg.png", TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-1 group-title="Japan" tvg-id="WOWOWCinema.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/Wx9fkCW.png", WOWOW Cinema (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 group-title="Japan" tvg-id="WOWOWLive.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/jPAYT5F.png", WOWOW Live (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1 group-title="Japan" tvg-id="WOWOWPrime.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/vACq7w8.png", WOWOW Prime (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+#EXTINF:-1 group-title="Japan" tvg-id="JOIXDTV.jp" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/ONbuWvo.png", YTV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+#EXTINF:-1 group-title="Japan" tvg-id="ZarokTV.iq" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/o0eevnb.png", Zarok TV Sorani (720p)
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 group-title="Japan" tvg-id="RTRPlanetaAsia.ru" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/DTtK0z7.png", РТР Планета Азия
+https://player.smotrim.ru/iframe/stream/live_id/63254
 #EXTINF:-1 group-title="South Korea" tvg-id="ABN.kr" tvg-name="" tvg-country="" tvg-logo="https://www.abn.co.kr/resources/images/logo.png", ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 group-title="South Korea" tvg-id="ArirangTV.kr" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/Asu5pE9.png", Arirang
@@ -3423,81 +3555,3 @@ http://37.27.111.214:8080/live/31/hls.m3u8
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", NHK BS1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", NHK BS Premium
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", BS Nittere
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", BS Asahi
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", BS TBS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", BS TV Tokyo
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", BS Fuji
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", WOWOW Prime
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", WOWOW Live
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", WOWOW Cinema
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Star Channel 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Star Channel 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Star Channel 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", BS Animax
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", BS Sky PerfecTV!
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", J Sports 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", J Sports 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", J Sports 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", J Sports 4
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", BS Tsuri Vision
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Nippon Eiga Senmon Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Toei Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Channel Neco
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Movie Plus
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Sky A
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Gaora Sports
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Nittere G+
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Golf Network
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Jidaigeki Senmon Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Family Gekijo
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Channel Ginga
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Super! Drama TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Fox Japan
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Lala TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1 
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Music On! TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Kids Station
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", Nittere News 24
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", NHK 総合
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="JP" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", NHK 教育
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
