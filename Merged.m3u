@@ -1,56 +1,56 @@
 ﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz"
 #EXTINF:-1 group-title="{HOY} 奇妙電視" tvg-id="77" tvg-name="HOY TV" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/77.png", HOY TV[直播]
-https://live.hkdvb.com/hls/live/77.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/77.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{HOY} 奇妙電視" tvg-id="78" tvg-name="HOY TV 資訊台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/78.png", HOY TV 資訊台[直播]
-https://live.hkdvb.com/hls/live/78.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/78.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{HOY} 奇妙電視" tvg-id="76" tvg-name="HOY 國際財經台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/76.png", HOY 國際財經台[直播]
-https://live.hkdvb.com/hls/live/76.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/76.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{NowTV} Now Player" tvg-id="99" tvg-name="ViuTV" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/99.png", ViuTV[直播]
-https://live.hkdvb.com/hls/live/99.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/99.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{NowTV} Now Player" tvg-id="96" tvg-name="ViuTV Six" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/96.png", ViuTV Six[直播]
-https://live.hkdvb.com/hls/live/96.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/96.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{NowTV} Now Player" tvg-id="138" tvg-name="Now Superstars 星影台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/138.png", Now Superstars 星影台[直播]
-https://live.hkdvb.com/hls/live/138.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/138.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{NowTV} Now Player" tvg-id="332" tvg-name="Now NEWS 新聞台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/332.png", Now NEWS 新聞台[直播]
-https://live.hkdvb.com/hls/live/332.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/332.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{NowTV} Now Player" tvg-id="621" tvg-name="Now Sports 英超1台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/621.jpg", Now Sports 英超1台[直播]
-https://live.hkdvb.com/hls/live/621.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/621.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{NowTV} Now Player" tvg-id="630" tvg-name="Now Sports Prime" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/630.png", Now Sports Prime[直播]
-https://live.hkdvb.com/hls/live/630.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/630.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{NowTV} Now Player" tvg-id="632" tvg-name="Now Sports 632" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/632.jpg", Now Sports 632[直播]
-https://live.hkdvb.com/hls/live/632.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/632.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{RTHK} 香港電台" tvg-id="31" tvg-name="港台電視 31" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/31.png", 港台電視 31[直播]
-https://live.hkdvb.com/hls/live/31.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/31.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{RTHK} 香港電台" tvg-id="32" tvg-name="港台電視 32" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/32.png", 港台電視 32[直播]
-https://live.hkdvb.com/hls/live/32.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/32.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{RTHK} 香港電台" tvg-id="33" tvg-name="CCTV-1  港澳版" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/33.png", CCTV-1  港澳版[直播]
-https://live.hkdvb.com/hls/live/33.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/33.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{RTHK} 香港電台" tvg-id="34" tvg-name="CGTN Documentary" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/34.png", CGTN Documentary[直播]
-https://live.hkdvb.com/hls/live/34.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/34.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{RTHK} 香港電台" tvg-id="35" tvg-name="CGTN English" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/35.png", CGTN English[直播]
-https://live.hkdvb.com/hls/live/35.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/35.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{RTHK} 香港電台" tvg-id="36" tvg-name="RTHK36" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/36.png", RTHK36[直播]
-https://live.hkdvb.com/hls/live/36.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/36.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="81" tvg-name="Jade 翡翠台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/81.png", Jade 翡翠台[直播]
-https://live.hkdvb.com/hls/live/81.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/81.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="82" tvg-name="TVB PLUS" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/82.png", TVB PLUS[直播]
-https://live.hkdvb.com/hls/live/82.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/82.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="83" tvg-name="News 新聞台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/83.png", News 新聞台[直播]
-https://live.hkdvb.com/hls/live/83.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/83.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="84" tvg-name="Pearl 明珠台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/84.png", Pearl 明珠台[直播]
-https://live.hkdvb.com/hls/live/84.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/84.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="85" tvg-name="鳳凰香港台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/85.png", 鳳凰香港台[直播]
-https://live.hkdvb.com/hls/live/85.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/85.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="800" tvg-name="翡翠4K" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/800.png", 翡翠4K[直播]
-https://live.hkdvb.com/hls/live/800.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/800.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="801" tvg-name="Popc" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/801.png", Popc[直播]
-https://live.hkdvb.com/hls/live/801.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/801.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="802" tvg-name="美亞" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/802.png", 美亞[直播]
-https://live.hkdvb.com/hls/live/802.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/802.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="803" tvg-name="華語劇台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/803.png", 華語劇台[直播]
-https://live.hkdvb.com/hls/live/803.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/803.m3u8?token=402135062116245
 #EXTINF:-1 group-title="{TVB}    無綫電視" tvg-id="804" tvg-name="粵語片台" tvg-country="HK" tvg-logo="https://live.hkdvb.com/static/logos/804.png", 粵語片台[直播]
-https://live.hkdvb.com/hls/live/804.m3u8?token=402135062139817
+https://live.hkdvb.com/hls/live/804.m3u8?token=402135062116245
 #EXTINF:-1 group-title="Adult" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", 21 Sextury
 http://8n6ygj3g.ottclub.xyz/iptv/L6H3RZT9LDYSZ5/12205/index.m3u
 #EXTINF:-1 group-title="Adult" tvg-id="" tvg-name="" tvg-country="" tvg-logo="", A3 Bikini
